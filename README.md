@@ -9,4 +9,9 @@ be constantly looking at the code to try and improve it.
 
 Please enjoy and if you like it, it doesn't hurt to leave a star to help my new coder reputation.
 
+Another way to see the code clearly is going to where I wrote it (EDIT PROTECTION ENABLED)
+
 All Credit Goes To Myself (HENRY S) a.k.a henry20075
+
+Also, I am in the current progress of making an self-esteem A.I in python which the first version will be bought out
+sometime this year (SECRET)
