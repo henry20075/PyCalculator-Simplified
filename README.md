@@ -8,3 +8,5 @@ New and improved versions will come out at least every month and if there isn't 
 be constantly looking at the code to try and improve it.
 
 Please enjoy and if you like it, it doesn't hurt to leave a star to help my new coder reputation.
+
+All Credit Goes To Myself (HENRY S) a.k.a henry20075
