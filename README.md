@@ -1,0 +1,10 @@
+# PyCalculator-Simplified
+This is a simple python calculator which adds, subtracts, multiplies and divides. Nothing more, nothing less.
+You can use this in any situation and it comes in handy if you might be using a linux pc/laptop.
+There is no install file as it is quite a small file in size so if you git clone it or download it as a zip file, 
+it wont take up any space when extracted at all. 
+
+New and improved versions will come out at least every month and if there isn't an update to the code, i will
+be constantly looking at the code to try and improve it.
+
+Please enjoy and if you like it, it doesn't hurt to leave a star to help my new coder reputation.
