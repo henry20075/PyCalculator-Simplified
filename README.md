@@ -9,7 +9,7 @@ be constantly looking at the code to try and improve it.
 
 Please enjoy and if you like it, it doesn't hurt to leave a star to help my new coder reputation.
 
-Another way to see and run the code online is going to where I wrote it (EDIT PROTECTION ENABLED) its here: https://onlinegdb.com/SyhCYpgdN
+Another way to see and run the code online is going to where I wrote it (EDIT PROTECTION ENABLED) its here: https://pycalculator-simplified.henrysargeant20.repl.run/
 
 All Credit Goes To Myself (HENRY S) a.k.a henry20075
 
